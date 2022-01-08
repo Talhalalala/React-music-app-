@@ -1,5 +1,6 @@
-import Artist_details from "./components/Artist_details";
-import Top_5_songs from "./components/Top_5_songs";
+import Artist_details from "./components/ArtistDetails/Artist_details";
+import Top_5_songs from "./components/Top5/Top_5_songs";
+
 import React from "react";
 
 function App() {
